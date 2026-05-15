@@ -160,8 +160,16 @@ export function HomePage() {
 
       {/* Footer */}
       <footer className="relative z-10 border-t border-cyan-500/10 bg-gray-950/50 backdrop-blur-xl mt-16">
-        <div className="max-w-7xl mx-auto px-4 py-8 text-center text-gray-500 text-sm">
-          <p>MENTE COLETIVA © 2024 - Conectando pensadores</p>
+        <div className="max-w-7xl mx-auto px-4 py-8 text-center text-gray-500 text-sm space-y-2">
+          <p>MENTE COLETIVA</p>
+          <a
+            href="https://github.com/diegoborges-eng-soft"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-cyan-400 hover:text-cyan-300 transition"
+          >
+            github.com/diegoborges-eng-soft
+          </a>
         </div>
       </footer>
     </div>
