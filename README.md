@@ -107,4 +107,4 @@ Desenvolvido como um conceito futurista de rede social focada em conexões intel
 
 ---
 
-**MENTE COLETIVA** © 2024 - Conectando pensadores além das métricas
+**MENTE COLETIVA - github.com/diegoborges-eng-soft
